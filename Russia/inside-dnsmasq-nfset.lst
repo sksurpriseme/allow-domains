@@ -475,3 +475,4 @@ nftset=/goodyear.telegram.com/4#inet#fw4#vpn_domains
 nftset=/google.telegram.com/4#inet#fw4#vpn_domains
 nftset=/googleffffffffffa87e73.telegram.com/4#inet#fw4#vpn_domains
 nftset=/confluent.io/4#inet#fw4#vpn_domains
+nftset=/temporal.io/4#inet#fw4#vpn_domains
