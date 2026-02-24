@@ -477,3 +477,6 @@ nftset=/google.telegram.com/4#inet#fw4#vpn_domains
 nftset=/googleffffffffffa87e73.telegram.com/4#inet#fw4#vpn_domains
 nftset=/confluent.io/4#inet#fw4#vpn_domains
 nftset=/temporal.io/4#inet#fw4#vpn_domains
+nftset=/zvukipro.com/4#inet#fw4#vpn_domains
+nftset=/pixabay.com/4#inet#fw4#vpn_domains
+
