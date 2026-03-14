@@ -483,3 +483,6 @@ nftset=/www.myinstants.com/4#inet#fw4#vpn_domains
 nftset=/shikimori.one/4#inet#fw4#vpn_domains
 nftset=/cert-manager.io/4#inet#fw4#vpn_domains
 nftset=/telegram.org/4#inet#fw4#vpn_domains
+nftset=/telesco.pe/4#inet#fw4#vpn_domains
+nftset=/telegram-cdn.org/4#inet#fw4#vpn_domains
+nftset=/t.me/4#inet#fw4#vpn_domains
