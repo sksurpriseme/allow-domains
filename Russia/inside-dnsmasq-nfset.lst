@@ -494,3 +494,4 @@ nftset=/tdesktop.com/4#inet#fw4#vpn_domains
 nftset=/tx.me/4#inet#fw4#vpn_domains
 nftset=/pytorch.org/4#inet#fw4#vpn_domains
 nftset=/redshieldvpn.com/4#inet#fw4#vpn_domains
+nftset=/authenticator.cursor.sh/4#inet#fw4#vpn_domains
