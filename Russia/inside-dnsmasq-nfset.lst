@@ -523,3 +523,5 @@ nftset=/us-west-1.api.x.ai/4#inet#fw4#vpn_domains
 nftset=/www.grok.com/4#inet#fw4#vpn_domains
 nftset=/www.x.ai/4#inet#fw4#vpn_domains
 nftset=/api.k8slens.dev/4#inet#fw4#vpn_domains
+nftset=/files.oaiusercontent.com/4#inet#fw4#vpn_domains
+nftset=/oaiusercontent.com/4#inet#fw4#vpn_domains
