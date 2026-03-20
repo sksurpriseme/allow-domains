@@ -23,3 +23,7 @@ nftset=/discordmerch.com/4#inet#fw4#vpn_domains
 nftset=/discordpartygames.com/4#inet#fw4#vpn_domains
 nftset=/discordsays.com/4#inet#fw4#vpn_domains
 nftset=/cdn.discordapp.com/4#inet#fw4#vpn_domains
+nftset=/rutracker.cc/4#inet#fw4#vpn_domains
+nftset=/rutracker.net/4#inet#fw4#vpn_domains
+nftset=/rutracker.org/4#inet#fw4#vpn_domains
+nftset=/rutracker.wiki/4#inet#fw4#vpn_domains
