@@ -251,3 +251,4 @@ nftset=/play.google.com/4#inet#router_fw#vpn4
 nftset=/www.google.com/4#inet#router_fw#vpn4
 nftset=/csp.withgoogle.com/4#inet#router_fw#vpn4
 nftset=/www.googletagmanager.com/4#inet#router_fw#vpn4
+nftset=/lucy.decart.ai/4#inet#router_fw#vpn4
