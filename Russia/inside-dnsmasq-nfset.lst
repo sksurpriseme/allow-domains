@@ -253,3 +253,5 @@ nftset=/csp.withgoogle.com/4#inet#router_fw#vpn4
 nftset=/www.googletagmanager.com/4#inet#router_fw#vpn4
 nftset=/lucy.decart.ai/4#inet#router_fw#vpn4
 nftset=/sing-box.sagernet.org/4#inet#router_fw#vpn4
+nftset=/docs.vllm.ai/4#inet#router_fw#vpn4
+nftset=/vllm.ai/4#inet#router_fw#vpn4
