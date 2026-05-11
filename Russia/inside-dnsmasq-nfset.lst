@@ -451,3 +451,4 @@ nftset=/www.ig.me/4#inet#router_fw#vpn4
 nftset=/www.instagram.com/4#inet#router_fw#vpn4
 nftset=/z-p42-chat-e2ee-ig.facebook.com/4#inet#router_fw#vpn4
 nftset=/grokusercontent.com/4#inet#router_fw#vpn4
+nftset=/clawhub.ai/4#inet#router_fw#vpn4
