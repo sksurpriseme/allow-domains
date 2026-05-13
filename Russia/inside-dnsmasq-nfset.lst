@@ -454,3 +454,4 @@ nftset=/grokusercontent.com/4#inet#router_fw#vpn4
 nftset=/clawhub.ai/4#inet#router_fw#vpn4
 nftset=/tavily.com/4#inet#router_fw#vpn4
 nftset=/exa.ai/4#inet#router_fw#vpn4
+nftset=/github.com/4#inet#router_fw#vpn4
