@@ -458,3 +458,29 @@ nftset=/github.com/4#inet#router_fw#vpn4
 nftset=/apify.com/4#inet#router_fw#vpn4
 nftset=/openai.com/4#inet#router_fw#vpn4
 nftset=/platform.openai.com/4#inet#router_fw#vpn4
+# Основные wildcard — самые важные
+nftset=/.cursor.sh/4#inet#router_fw#vpn4
+nftset=/.cursor-cdn.com/4#inet#router_fw#vpn4
+nftset=/.cursorapi.com/4#inet#router_fw#vpn4
+# Основной сайт
+nftset=/cursor.com/4#inet#router_fw#vpn4
+# Дополнительно (рекомендую добавить)
+nftset=/api2.cursor.sh/4#inet#router_fw#vpn4
+nftset=/api3.cursor.sh/4#inet#router_fw#vpn4
+nftset=/api4.cursor.sh/4#inet#router_fw#vpn4
+nftset=/repo42.cursor.sh/4#inet#router_fw#vpn4
+nftset=/agent.api5.cursor.sh/4#inet#router_fw#vpn4
+nftset=/marketplace.cursorapi.com/4#inet#router_fw#vpn4
+# Обновления приложения
+nftset=/download.todesktop.com/4#inet#router_fw#vpn4
+nftset=/downloads.cursor.com/4#inet#router_fw#vpn4
+# ==================== OpenRouter ====================
+nftset=/.openrouter.ai/4#inet#router_fw#vpn4
+nftset=/openrouter.ai/4#inet#router_fw#vpn4
+# Региональный routing (EU)
+nftset=/.eu.openrouter.ai/4#inet#router_fw#vpn4
+nftset=/eu.openrouter.ai/4#inet#router_fw#vpn4
+# API (на всякий случай, хотя обычно покрывается wildcard)
+nftset=/api.openrouter.ai/4#inet#router_fw#vpn4
+# Дополнительно (если используешь)
+nftset=/docs.openrouter.ai/4#inet#router_fw#vpn4
