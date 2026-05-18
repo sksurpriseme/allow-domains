@@ -456,3 +456,5 @@ nftset=/tavily.com/4#inet#router_fw#vpn4
 nftset=/exa.ai/4#inet#router_fw#vpn4
 nftset=/github.com/4#inet#router_fw#vpn4
 nftset=/apify.com/4#inet#router_fw#vpn4
+nftset=/openai.com/4#inet#router_fw#vpn4
+nftset=/platform.openai.com/4#inet#router_fw#vpn4
