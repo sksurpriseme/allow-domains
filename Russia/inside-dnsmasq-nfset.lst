@@ -444,6 +444,7 @@ nftset=/scontent-sof1-2.xx.fbcdn.net/4#inet#router_fw#vpn4
 nftset=/scontent-vie1-1.cdninstagram.com/4#inet#router_fw#vpn4
 nftset=/scontent.cdninstagram.com/4#inet#router_fw#vpn4
 nftset=/scontent.fbeg10-1.fna.fbcdn.net/4#inet#router_fw#vpn4
+nftset=/scontent-fallback.cdninstagram.com/4#inet#router_fw#vpn4
 nftset=/web.facebook.com/4#inet#router_fw#vpn4
 nftset=/www.ig.me/4#inet#router_fw#vpn4
 nftset=/www.instagram.com/4#inet#router_fw#vpn4
