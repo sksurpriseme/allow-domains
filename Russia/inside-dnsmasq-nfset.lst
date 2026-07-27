@@ -487,13 +487,13 @@ nftset=/api.openrouter.ai/4#inet#router_fw#vpn4
 # Дополнительно (если используешь)
 nftset=/docs.openrouter.ai/4#inet#router_fw#vpn4
 # дополнительно для gemini
- nftset=/accounts.google.com/4#inet#router_fw#vpn4
-  nftset=/myaccount.google.com/4#inet#router_fw#vpn4
-  nftset=/signin.google.com/4#inet#router_fw#vpn4
-  nftset=/accounts.youtube.com/4#inet#router_fw#vpn4
-  nftset=/oauthaccountmanager.googleapis.com/4#inet#router_fw#vpn4
-  nftset=/notebooklm.google.com/4#inet#router_fw#vpn4
-  nftset=/alkali.google.com/4#inet#router_fw#vpn4
-  nftset=/clients6.google.com/4#inet#router_fw#vpn4
-  nftset=/clients.google.com/4#inet#router_fw#vpn4
-  nftset=/gds.google.com/4#inet#router_fw#vpn4
+nftset=/accounts.google.com/4#inet#router_fw#vpn4
+nftset=/myaccount.google.com/4#inet#router_fw#vpn4
+nftset=/signin.google.com/4#inet#router_fw#vpn4
+nftset=/accounts.youtube.com/4#inet#router_fw#vpn4
+nftset=/oauthaccountmanager.googleapis.com/4#inet#router_fw#vpn4
+nftset=/notebooklm.google.com/4#inet#router_fw#vpn4
+nftset=/alkali.google.com/4#inet#router_fw#vpn4
+nftset=/clients6.google.com/4#inet#router_fw#vpn4
+nftset=/clients.google.com/4#inet#router_fw#vpn4
+nftset=/gds.google.com/4#inet#router_fw#vpn4
