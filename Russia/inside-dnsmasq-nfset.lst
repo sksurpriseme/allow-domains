@@ -497,3 +497,4 @@ nftset=/alkali.google.com/4#inet#router_fw#vpn4
 nftset=/clients6.google.com/4#inet#router_fw#vpn4
 nftset=/clients.google.com/4#inet#router_fw#vpn4
 nftset=/gds.google.com/4#inet#router_fw#vpn4
+nftset=/alkalimining-pa.googleapis.com/4#inet#router_fw#vpn4
